@@ -72,7 +72,7 @@ This project focuses on understanding and implementing multiple clustering algor
 
 ##  Project Structure
 
-├── dataset.csv
+├── EastWestAirlines.xlsx
 ├── clustering_analysis.ipynb
 ├── README.md
 
